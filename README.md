@@ -9,4 +9,4 @@ Simple scripts used for image dectection boting on osrs.
  - using runelite
  - runelite plugin called "Visual Metronome" installed
 
-You may make your own bots by analyzing the code and customizing it to your needs.
+You may make your own bots by analyzing the code and customizing it to your needs. To see bot-specific requrements, read the bot README in the respective folder.
