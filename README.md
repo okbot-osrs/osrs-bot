@@ -3,7 +3,7 @@ Simple scripts used for image dectection boting on osrs.
 
 # software requirements
  - Python 3.12 or newer
- - install the required libraries using `pip install requirements`
+ - install the required libraries using `pip install requirements.txt`
 
 # osrs Account requirements
  - using runelite

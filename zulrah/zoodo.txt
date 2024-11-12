@@ -1,0 +1,14 @@
+mages book on change gear plus check if gear was changed right. 
+  maybe seperate that into 2 and then into 2 again for checking left side and right side.
+red ex check when I right click.
+
+need to add special attacks, health checks, and eat in right places
+guthix rest???!?!
+
+at some point sip a ppot (inventory class)
+
+for the end of the kill:
+if the clickR fails 4 times: check for red on minimap.
+If there is red then end it, if not then teleport out
+
+click needs a setPos while loop instead of time.sleep
